@@ -31,7 +31,17 @@ body{
     height: 20px;
 }
 
+.purple{
+    font-size: large;
+    color: purple;
+}
+
+.row:first-child{
+    padding-left: 35px;
+}
+
 .button{
+    font-size: 20px;
     border-radius: 20px;
 }
 
